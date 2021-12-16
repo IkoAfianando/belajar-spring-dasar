@@ -10,6 +10,7 @@ public class BelajarSpringDasarApplication {
 		SpringApplication.run(BelajarSpringDasarApplication.class, args);
 	}
 		static {
-			System.out.println("Iko Afianando adalah seorang Programmer yang Handal dalam program Java Development");
+			System.out.println("Iko Afianando adalah seorang Programmer handal dalam Java Spring Development");
+			System.out.print("Iko Afianando adalah Murid yang baik dan sangat Ramah");
 		}
 }

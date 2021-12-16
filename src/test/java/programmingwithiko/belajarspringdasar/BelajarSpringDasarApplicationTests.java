@@ -8,6 +8,10 @@ class BelajarSpringDasarApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Iko Afianando BRO KUN");
+		System.out.println("Iko Afianando BRO KUN");
+		System.out.println("Iko Afianando BRO KUN");
+		System.out.println("Iko Afianando BRO KUN");
 	}
 
 }
